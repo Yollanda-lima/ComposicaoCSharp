@@ -1,0 +1,15 @@
+C:\Users\y.barbosa\Desktop\Curso C#\CompisiçãoC#\Composição\Composição\bin\Debug\net6.0\Composição.exe
+C:\Users\y.barbosa\Desktop\Curso C#\CompisiçãoC#\Composição\Composição\bin\Debug\net6.0\Composição.deps.json
+C:\Users\y.barbosa\Desktop\Curso C#\CompisiçãoC#\Composição\Composição\bin\Debug\net6.0\Composição.runtimeconfig.json
+C:\Users\y.barbosa\Desktop\Curso C#\CompisiçãoC#\Composição\Composição\bin\Debug\net6.0\Composição.dll
+C:\Users\y.barbosa\Desktop\Curso C#\CompisiçãoC#\Composição\Composição\bin\Debug\net6.0\Composição.pdb
+C:\Users\y.barbosa\Desktop\Curso C#\CompisiçãoC#\Composição\Composição\obj\Debug\net6.0\Composição.csproj.AssemblyReference.cache
+C:\Users\y.barbosa\Desktop\Curso C#\CompisiçãoC#\Composição\Composição\obj\Debug\net6.0\Composição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\y.barbosa\Desktop\Curso C#\CompisiçãoC#\Composição\Composição\obj\Debug\net6.0\Composição.AssemblyInfoInputs.cache
+C:\Users\y.barbosa\Desktop\Curso C#\CompisiçãoC#\Composição\Composição\obj\Debug\net6.0\Composição.AssemblyInfo.cs
+C:\Users\y.barbosa\Desktop\Curso C#\CompisiçãoC#\Composição\Composição\obj\Debug\net6.0\Composição.csproj.CoreCompileInputs.cache
+C:\Users\y.barbosa\Desktop\Curso C#\CompisiçãoC#\Composição\Composição\obj\Debug\net6.0\Composição.dll
+C:\Users\y.barbosa\Desktop\Curso C#\CompisiçãoC#\Composição\Composição\obj\Debug\net6.0\refint\Composição.dll
+C:\Users\y.barbosa\Desktop\Curso C#\CompisiçãoC#\Composição\Composição\obj\Debug\net6.0\Composição.pdb
+C:\Users\y.barbosa\Desktop\Curso C#\CompisiçãoC#\Composição\Composição\obj\Debug\net6.0\Composição.genruntimeconfig.cache
+C:\Users\y.barbosa\Desktop\Curso C#\CompisiçãoC#\Composição\Composição\obj\Debug\net6.0\ref\Composição.dll
